@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KYL</string>
+
+    <!--Shared Transition Elements-->
+    <string name="transition_image">transition_image</string>
+    <string name="transition_desc">transition_desc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="capital">Capital</string>
+    <string name="population">Population</string>
+    <string name="region">Region</string>
+    <string name="area">Area in Km Square</string>
+    <string name="native_name">Native Name</string>
+    <string name="search">Search Countries</string>
+    <string name="no_data">No Data</string>
+    <string name="error">Error</string>
+    <string name="zoho">ZOHO</string>
+    <string name="created_by">Created By</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+</resources>
